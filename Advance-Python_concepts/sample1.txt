@@ -1,0 +1,3 @@
+hello world
+ How are you?/nAdded new line keeping the old one 
+Added new line keeping the old one 
